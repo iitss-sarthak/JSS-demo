@@ -1,2 +1,4 @@
-# JSS-demo
-my first git repository
+# CODE-demo
+My first git repository
+<br>
+Authur - Sarthak Kumar
